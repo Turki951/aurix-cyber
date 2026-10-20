@@ -1,0 +1,8 @@
+{
+  "name": "aurix-cyber",
+  "private": true,
+  "scripts": {
+    "build": "cd apps/dashboard && npm install && npm run build",
+    "start": "cd apps/dashboard && npm run start"
+  }
+}
